@@ -1,0 +1,27 @@
+body {
+	background-color: black;
+	text-align: center;
+	margin-top: 120px;
+}
+
+.container{
+
+	position: relative;
+
+	}
+.container img{
+
+	width:100%;
+	height: auto;
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 38%;
+    width: 100%;
+     }
+
+h2{ color: white;}
+
+
