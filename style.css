@@ -15,13 +15,18 @@ body {
 	height: auto;
 }
 
-.center , .center a:link , .center a:hover{
+.center {
     position: absolute;
     top: 38%;
     width: 100%;
      }
 
-
+.mc-embedded-subscribe {
+	clear: both;
+	width:auto;
+	display: block;
+	margin: 1em 0px 1em 5%;
+}
 
 h2{ color: white;}
 
