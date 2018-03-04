@@ -10,17 +10,18 @@ body {
 
 	}
 .container img{
-
+    text-align: center;
 	width:100%;
 	height: auto;
 }
 
-.center {
+.center , .center a:link , .center a:hover{
     position: absolute;
-    
     top: 38%;
     width: 100%;
      }
+
+
 
 h2{ color: white;}
 
