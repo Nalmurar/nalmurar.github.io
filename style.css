@@ -21,11 +21,11 @@ body {
     width: 100%;
      }
 
-.mc-embedded-subscribe {
+#mc-embedded-subscribe {
 	clear: both;
 	width:auto;
 	display: block;
-	margin: 1em 0px 1em 5%;
+	margin: 1em 0px 1em 0px;
 }
 
 h2{ color: white;}
