@@ -20,10 +20,10 @@ body {
     width: 100%;
      }
 
+.centerbtn { 
+    position: absolute;
+    width: 100%;}
+
 h2{ color: white;}
 
 
-.btn btn-primary btn-lg{
-
-	vertical-align: center;
-}
