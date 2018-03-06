@@ -1,25 +1,22 @@
 body {
 	background-color: black;
-	text-align: center;
 	margin-top: 120px;
 }
 
-.container{
+.container {
 	position: relative;
 	}
 
-.container img{
-    text-align: center;
-	width:100%;
+.container img {
+   	width:100%;
 	height: auto;
 }
 
 #mc_embed_signup {
     position: absolute;
     top: 38%;
-    width: 100%;
+    padding-left: 28%
      }
-
 
 h2{ color: white;}
 
